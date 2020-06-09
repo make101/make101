@@ -5,9 +5,13 @@
 永久地址发布站:
 
 发布地址1：https://bitbucket.org/make101/make101/src/master/
+
 发布地址2：https://www.ebay.com/usr/make101_sister
+
 发布地址3：https://github.com/make101/make101
+
 发布地址4：https://about.me/make101
+
 发布地址5：https://www.make101.org
 
 
